@@ -2,7 +2,7 @@
 ---
 ## Example
 ```python
-from approxable_dict import Approxable
+from pytest_approxable import Approxable
 from dataclasses import dataclass
 from pytest import approx
 

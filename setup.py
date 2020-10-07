@@ -5,7 +5,7 @@ with open("README.md", "r") as fh:
 
 setup(
     name="hackinteach-pytest-approxable",
-    version="0.0.1",
+    version="0.0.3",
     author="hackinteach",
     author_email="webmaster@hackinteach.com",
     description="A pytest approxable dict mixin for data class",
